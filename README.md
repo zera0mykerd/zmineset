@@ -1,1 +1,3 @@
 # zmineset
+
+Wayback machine exclusion
